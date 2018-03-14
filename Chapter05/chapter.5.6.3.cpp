@@ -1,8 +1,8 @@
 
 //
-// This is example code from Chapter 5.6.3 "Bad input " of
+// This is an example from Chapter 5.6.3 "Bad input " of
 // "Programming -- Principles and Practice Using C++" by Bjarne Stroustrup
-//
+// - Gary Mayfield
 
 #include "std_lib_facilities.h"
 

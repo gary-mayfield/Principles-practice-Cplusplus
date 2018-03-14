@@ -1,8 +1,8 @@
 
 //
-// This is example code from Chapter 4.5.1 "Why bother with functions?" of
+// This is an example from Chapter 4.5.1 "Why bother with functions?" of
 // "Programming -- Principles and Practice Using C++" by Bjarne Stroustrup
-//
+// - Gary Mayfield
 
 #include "std_lib_facilities.h"
 

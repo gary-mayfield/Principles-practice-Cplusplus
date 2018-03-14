@@ -1,8 +1,8 @@
 
 //
-// This is example code from Chapter 4.3 "Expressions" of
+// This is an example from Chapter 4.3 "Expressions" of
 // "Programming -- Principles and Practice Using C++" by Bjarne Stroustrup
-//
+// - Gary Mayfield
 
 //------------------------------------------------------------------------------
 

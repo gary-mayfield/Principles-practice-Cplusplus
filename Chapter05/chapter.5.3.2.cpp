@@ -1,8 +1,8 @@
 
 //
-// This is example code from Chapter 5.3.2 "Type errors" of
+// This is an example from Chapter 5.3.2 "Type errors" of
 // "Programming -- Principles and Practice Using C++" by Bjarne Stroustrup
-//
+// - Gary Mayfield
 
 //------------------------------------------------------------------------------
 

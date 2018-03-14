@@ -1,8 +1,8 @@
 
 //
-// This is example code from Chapter 5.5.1 "The caller deals with errors" of
+// This is an example from Chapter 5.5.1 "The caller deals with errors" of
 // "Programming -- Principles and Practice Using C++" by Bjarne Stroustrup
-//
+// - Gary Mayfield
 
 #include "std_lib_facilities.h"
 

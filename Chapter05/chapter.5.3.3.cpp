@@ -1,8 +1,8 @@
 
 //
-// This is example code from Chapter 5.3.3 "Non-errors" of
+// This is an example from Chapter 5.3.3 "Non-errors" of
 // "Programming -- Principles and Practice Using C++" by Bjarne Stroustrup
-//
+// - Gary Mayfield
 
 //------------------------------------------------------------------------------
 

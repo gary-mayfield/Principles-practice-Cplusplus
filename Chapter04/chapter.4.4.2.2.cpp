@@ -1,8 +1,8 @@
 
 //
-// This is example code from Chapter 4.4.2.2 "Blocks" of
+// This is an example from Chapter 4.4.2.2 "Blocks" of
 // "Programming -- Principles and Practice Using C++" by Bjarne Stroustrup
-//
+// - Gary Mayfield
 
 //------------------------------------------------------------------------------
 

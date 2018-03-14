@@ -1,8 +1,8 @@
 
 //
-// This is example code from Chapter 4.3.1 "Constant expressions" of
+// This is an example from Chapter 4.3.1 "Constant expressions" of
 // "Programming -- Principles and Practice Using C++" by Bjarne Stroustrup
-//
+// - Gary Mayfield
 
 //------------------------------------------------------------------------------
 
