@@ -1,8 +1,8 @@
 
 //
-// This is example code from Chapter 6.3.1 "First attempt" of
+// This is an example from Chapter 6.3.1 "First attempt" of
 // "Programming -- Principles and Practice Using C++" by Bjarne Stroustrup
-//
+// - Gary Mayfield
 
 #include "std_lib_facilities.h"
 
