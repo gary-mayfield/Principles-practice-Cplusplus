@@ -1,6 +1,6 @@
 
 //
-// This is an example from Chapter ..." of
+// This is an example from Chapter 6.3.3" of
 // "Programming -- Principles and Practice Using C++" by Bjarne Stroustrup
 // - Gary Mayfield
 
