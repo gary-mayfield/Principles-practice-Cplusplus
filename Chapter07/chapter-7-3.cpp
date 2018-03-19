@@ -130,7 +130,7 @@ try
     while(cin){
         cout << "> ";
         Token t = ts.get();
-        while(t.kind == ';') t = ts.get()      // eat ';'
+        while(t.kind == ';') t = ts.get();      // eat ';'
         if(t.kind == 'q'){
             keep_window_open();
             return 0;
@@ -148,7 +148,7 @@ catch(exception& e){
 }
 catch(...){
     cerr << "exception \n";
-    keep_window_open(~~);
+    keep_window_open("~~");
     return 2;
 }
 
