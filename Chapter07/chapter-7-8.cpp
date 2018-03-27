@@ -122,7 +122,7 @@ double declaration()
 {
     Token t = ts.get();
     if(t.kind != v.name) error("name expected in declaration");
-    string var_name = t.name;
+    string var_name = v.name;
 
     Token t2 = ts.get();
     if(t2.kind != '=') error("= missing in declaration of ", var_name);
