@@ -74,7 +74,10 @@ bool is_date(int y, Month m, int d)
 
 bool leapyear(int y)
 {
-    // see exercise 10
+    if ((y % 4 == 0) && (y % 100 != 0) || (y % 400 == 0)):
+        return true;
+    else:
+        return false;
 }
 
 bool operator==(const Date& a, const Date& b)
